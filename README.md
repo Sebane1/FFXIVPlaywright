@@ -39,6 +39,6 @@ Keep in mind, that this tool is not limited to just generating macros between tw
 This tool can also simulate the chat log so you can tweak timings outside of FFXIV, and make sure its close to perfect before testing in game!
 Thats everything! Test it out and have fun!
 
-
+Simply design the master macro, test it, have the program process it, have each player copy paste their individual macro in game, execute the macros at the same time, and watch as they play in time with eachother!
 
 
