@@ -1,0 +1,10 @@
+C:\Users\stel9\source\repos\FFXIVPlaywright\FFXIVPlaywright\bin\Debug\FFXIVPlaywright.exe.config
+C:\Users\stel9\source\repos\FFXIVPlaywright\FFXIVPlaywright\bin\Debug\FFXIVPlaywright.exe
+C:\Users\stel9\source\repos\FFXIVPlaywright\FFXIVPlaywright\bin\Debug\FFXIVPlaywright.pdb
+C:\Users\stel9\source\repos\FFXIVPlaywright\FFXIVPlaywright\obj\Debug\FFXIVPlaywright.csproj.AssemblyReference.cache
+C:\Users\stel9\source\repos\FFXIVPlaywright\FFXIVPlaywright\obj\Debug\FFXIVPlaywright.Form1.resources
+C:\Users\stel9\source\repos\FFXIVPlaywright\FFXIVPlaywright\obj\Debug\FFXIVPlaywright.Properties.Resources.resources
+C:\Users\stel9\source\repos\FFXIVPlaywright\FFXIVPlaywright\obj\Debug\FFXIVPlaywright.csproj.GenerateResource.cache
+C:\Users\stel9\source\repos\FFXIVPlaywright\FFXIVPlaywright\obj\Debug\FFXIVPlaywright.csproj.CoreCompileInputs.cache
+C:\Users\stel9\source\repos\FFXIVPlaywright\FFXIVPlaywright\obj\Debug\FFXIVPlaywright.exe
+C:\Users\stel9\source\repos\FFXIVPlaywright\FFXIVPlaywright\obj\Debug\FFXIVPlaywright.pdb
