@@ -35,9 +35,9 @@ PersonOne: "Hooray!" <wait.4> /welcome
 "But now you can just worry about the big picture macro! This program will split it up into individualized chunks after the fact!" <wait.1>
 /cheer <wait.2>
 ```
-## Keep in mind, that this tool is not limited to just generating macros between two people, and can theoretically keep track of as many people as you feasibly require for the group macro.
-## This tool can also simulate the chat log so you can tweak timings outside of FFXIV, and make sure its close to perfect before testing in game!
-## Thats everything! Test it out and have fun!
+Keep in mind, that this tool is not limited to just generating macros between two people, and can theoretically keep track of as many people as you feasibly require for the group macro.
+This tool can also simulate the chat log so you can tweak timings outside of FFXIV, and make sure its close to perfect before testing in game!
+Thats everything! Test it out and have fun!
 
 
 
